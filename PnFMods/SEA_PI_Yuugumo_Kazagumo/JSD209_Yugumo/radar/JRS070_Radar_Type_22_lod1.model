@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<extent>	8.000000	</extent>
-	<parent>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/radar/JRS070_Radar_Type_22_lod2	</parent>
+	<parent>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/radar/JRS070_Radar_Type_22_lod2	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.018863 0.000223 -0.046159	</min>
@@ -18,6 +18,6 @@
 		<frameRate>	30.000000	</frameRate>
 		<nodes>	content/animation/common/NC_JRS070_Radar_Type_22	</nodes>
 	</animation>
-	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/radar/JRS070_Radar_Type_22_lod1	</nodefullVisual>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/radar/JRS070_Radar_Type_22_lod1	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JRS070_Radar_Type_22_lod1.model>

@@ -6,15 +6,15 @@
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_mg.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_mg.tga	</Texture>
 	</property>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_a.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_a.tga	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_n.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/gun/JGT012_610mm4_Type_93_n.tga	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/default_ao.tga	</Texture>
+		<Texture>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/gun/default_ao.tga	</Texture>
 	</property>
 </JGT012_610mm4_Type_93.mfm>

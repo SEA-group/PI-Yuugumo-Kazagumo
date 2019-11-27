@@ -66,7 +66,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_GunX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/gun/JGA010_25mm_Type96.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/gun/JGA010_25mm_Type96.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

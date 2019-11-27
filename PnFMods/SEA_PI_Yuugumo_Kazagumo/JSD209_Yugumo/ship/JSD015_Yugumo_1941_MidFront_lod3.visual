@@ -93,25 +93,13 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 			<primitiveGroup>	1
 				<material>
-					<identifier>	SHIPMAT_PBS_Platform	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/platform.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	2
-				<material>
-					<identifier>	SHIPMAT_PBS_Shiden	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/shiden.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	3
-				<material>
 					<identifier>	SHIPMAT_PBS_HullG	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Glass.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941_Glass.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -125,7 +113,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -139,7 +127,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -153,7 +141,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -167,7 +155,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_Crack	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -181,7 +169,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -195,7 +183,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -209,7 +197,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_HullX	</identifier>
-					<mfm>	PnFMods/SEA_PI_Yuugumo_Kiyoshimo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
+					<mfm>	PnFMods/SEA_PI_Yuugumo_Kazagumo/JSD209_Yugumo/ship/JSD015_Yugumo_1941.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
