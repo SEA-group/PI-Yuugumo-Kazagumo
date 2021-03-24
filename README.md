@@ -5,7 +5,7 @@ Skin modification for tier 9 destroyer **Yuugumo**.
 Presented by SEA group
 
 ## Installation
-* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]/res_mods//`
+* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]/res_mods/`
 * **For Steam users**, copy `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/`
 
 ## 使用方法
@@ -17,3 +17,6 @@ Presented by SEA group
 * [ちぜ](https://www.pixiv.net/users/1059121)
 * [柊蒼恋](https://www.pixiv.net/users/2485047)
 * [森野こりす](https://www.pixiv.net/users/4760549)
+
+## Preview
+![PI-Yuugumo-Kazagumo](https://raw.githubusercontent.com/SEA-group/PI-Yuugumo-Kazagumo/master/Affiche.jpg)
